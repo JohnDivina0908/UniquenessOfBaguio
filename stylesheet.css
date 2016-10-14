@@ -1,0 +1,83 @@
+*{
+	background-image: url("https://px.multiscreensite.com/index.php?url=http%3A%2F%2Fs6.postimg.org%2Fwah4f7yxd%2Fbg_pic_bamboo.jpg&hl=0");
+}
+
+#Banner{
+	padding-top: 5px;
+	padding-bottom: 10px;
+	text-align: center;
+
+}
+
+#image1{
+	width: 1150px;
+	height: 180px;
+	padding-left:40px; 
+	padding-right: 40px;
+	padding-top: 20px;
+}
+
+
+#nav{
+	text-align: center;
+	color: #ffffff;
+	font-family: Calibri;
+	font-size: 20px;
+	padding-right: 10px;
+	padding-left: 10px
+}
+
+#home{
+	background-image: url("https://px.multiscreensite.com/index.php?url=http%3A%2F%2Fwallpapercave.com%2Fwp%2FcdPr3s3.jpg&hl=0");
+}
+
+
+#history{
+	background-image: url("https://px.multiscreensite.com/index.php?url=http%3A%2F%2Fwallpapercave.com%2Fwp%2FcdPr3s3.jpg&hl=0");
+}
+
+#A{
+		background-image: url("https://px.multiscreensite.com/index.php?url=http%3A%2F%2Fwallpapercave.com%2Fwp%2FcdPr3s3.jpg&hl=0");
+}
+
+#PhotoGal{
+	background-image: url("https://px.multiscreensite.com/index.php?url=http%3A%2F%2Fwallpapercave.com%2Fwp%2FcdPr3s3.jpg&hl=0");
+}
+
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: black;
+    font-weight: bold;
+}
+
+a:active {
+    color: white;
+    font-weight: bold;
+
+}
+
+#gal{
+	padding-top: 20px;
+}
+
+#ArticleImg{
+	width: 330px;
+	height: 190px;
+	padding-left: 50px;
+	padding-bottom: 10px;
+}
+
+#ArtiWord{
+	color: white;
+	padding-left: 20px;
+	padding-right: 80px;
+	padding-top: 15px;
+}
